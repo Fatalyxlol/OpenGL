@@ -1,0 +1,3 @@
+/home/nikita/Рабочий стол/gpaph/lab13/cmake-build-debug/CMakeFiles/lab1gl.dir
+/home/nikita/Рабочий стол/gpaph/lab13/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nikita/Рабочий стол/gpaph/lab13/cmake-build-debug/CMakeFiles/rebuild_cache.dir
